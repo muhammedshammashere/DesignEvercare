@@ -439,3 +439,24 @@
 }
 
 /* ------------------------------------------------------------------------------------------------------------ */
+.service-link{
+    font-family: "Heebo", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #666565;
+    background-color: #F3F6F8;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    
+}
+.service-link:hover{
+    font-family: "Heebo", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #666565;
+    background-color: #F3F6F8;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
